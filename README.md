@@ -7,7 +7,8 @@ An end-to-end data analytics project built using **Microsoft Excel**. This proje
 ---
 
 ## 📌 Dashboard Preview
-![Retail Sales Dashboard](dashboard.png)
+![Retail Sales Dashboard]<img width="958" height="435" alt="dasboard png" src="https://github.com/user-attachments/assets/d0272115-9990-48d1-a778-7f50e66ea2df" />
+
 
 ---
 
